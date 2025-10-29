@@ -1,0 +1,11 @@
+# robots.txt for Cambodia Changing Landscapes
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap
+Sitemap: http://localhost/sitemap.xml
+
+# Crawl delay (in seconds)
+Crawl-delay: 1
